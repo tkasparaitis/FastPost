@@ -1,2 +1,4 @@
 # FastSMS
-SMS Gateway
+SMS Gateway admin portal
+
+1. Login / Register
